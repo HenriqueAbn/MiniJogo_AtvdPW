@@ -47,7 +47,7 @@ html {
     align-items: center;
     flex-direction: column;
     padding: 15px 15px;
-    border-radius: 15px;
+    border-radius: 3px;
     border-style:ridge;
     border-color: rgb(0, 164, 8);
     box-shadow: 0px 10px 40px rgb(0, 164, 8);
